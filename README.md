@@ -1,11 +1,11 @@
 <div align="center">
 
-# Olá, eu sou o Marcelo Almeida 👋
+<h1>Olá, eu sou o Marcelo Almeida 👋</h1>
 
-### Desenvolvedor Full-Stack & Especialista em Automação
+<h3>Desenvolvedor Full-Stack & Especialista em Automação</h3>
 
-Transformo processos manuais em sistemas inteligentes.<br/>
-Construo aplicações web completas, automações com IA e integrações com WhatsApp.
+<p>Transformo processos manuais em sistemas inteligentes.<br/>
+Construo aplicações web completas, automações com IA e integrações com WhatsApp.</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-almeida-fullstack)
 [![Portfolio](https://img.shields.io/badge/-mindforge.dev.br-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mindforge.dev.br)
@@ -66,6 +66,7 @@ Construo aplicações web completas, automações com IA e integrações com Wha
 <td width="50%">
 
 #### 🏊 [Sistema Clube](https://github.com/msalmeida123/sistema-clube)
+
 Sistema completo de gestão para clubes recreativos — associados, financeiro, portaria com QR Code, CRM WhatsApp, eleições e mais.
 
 `Next.js` `Supabase` `Docker Swarm` `WhatsApp API`
@@ -74,6 +75,7 @@ Sistema completo de gestão para clubes recreativos — associados, financeiro, 
 <td width="50%">
 
 #### 📱 [Clube Associado (PWA)](https://github.com/msalmeida123/clube-associado)
+
 App mobile (PWA) para associados acessarem carteirinha digital, boletos, reservas e informações do clube.
 
 `Next.js` `PWA` `QR Code` `Supabase`
@@ -88,8 +90,9 @@ App mobile (PWA) para associados acessarem carteirinha digital, boletos, reserva
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=msalmeida123&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalmeida123&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msalmeida123&theme=github-dark-blue&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msalmeida123&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
